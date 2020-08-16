@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小鱼儿的梦呓</title>
+  
+  <subtitle>万物之中，希望至美</subtitle>
+  <link href="http://practiceyyp.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://practiceyyp.github.io/"/>
+  <updated>2020-08-16T00:56:11.563Z</updated>
+  <id>http://practiceyyp.github.io/</id>
+  
+  <author>
+    <name>Edward Yu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://practiceyyp.github.io/2020/08/16/hello-world/"/>
+    <id>http://practiceyyp.github.io/2020/08/16/hello-world/</id>
+    <published>2020-08-16T00:56:11.562Z</published>
+    <updated>2020-08-16T00:56:11.563Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>经历考研后的一些感想</title>
+    <link href="http://practiceyyp.github.io/2020/03/11/ri-ji-2020-03-11-sui-xiang/"/>
+    <id>http://practiceyyp.github.io/2020/03/11/ri-ji-2020-03-11-sui-xiang/</id>
+    <published>2020-03-10T16:00:00.000Z</published>
+    <updated>2020-08-16T04:17:27.072Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2019年下半年在准备研究生考试，体验了一下研究生的准备，报名，报考，考试，出分的过程。考完我就觉得没戏了，事实正如我所料，难受了一段时间。因此2019年没有去参加专业实践。2020年初，由于新冠疫情，也无法参加到相关企业参加实践。所以，将从以下方面分享一下：&lt;/p&gt;
+&lt;p</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="http://practiceyyp.github.io/categories/Diary/"/>
+    
+    
+    <category term="Diary" scheme="http://practiceyyp.github.io/tags/Diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随想</title>
+    <link href="http://practiceyyp.github.io/2020/03/11/ce-shi/"/>
+    <id>http://practiceyyp.github.io/2020/03/11/ce-shi/</id>
+    <published>2020-03-10T16:00:00.000Z</published>
+    <updated>2020-08-16T03:55:15.614Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;自己的视野在逐渐变宽，最近在追海贼王&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="http://practiceyyp.github.io/categories/Diary/"/>
+    
+    
+    <category term="Diary" scheme="http://practiceyyp.github.io/tags/Diary/"/>
+    
+  </entry>
+  
+</feed>

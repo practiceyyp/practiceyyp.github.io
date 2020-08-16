@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/08/16/hello-world/"/>
+      <url>/2020/08/16/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>经历考研后的一些感想</title>
+      <link href="/2020/03/11/ri-ji-2020-03-11-sui-xiang/"/>
+      <url>/2020/03/11/ri-ji-2020-03-11-sui-xiang/</url>
+      
+        <content type="html"><![CDATA[<p>2019年下半年在准备研究生考试，体验了一下研究生的准备，报名，报考，考试，出分的过程。考完我就觉得没戏了，事实正如我所料，难受了一段时间。因此2019年没有去参加专业实践。2020年初，由于新冠疫情，也无法参加到相关企业参加实践。所以，将从以下方面分享一下：</p><p><strong>备考的感想：</strong></p><p>这一场考试经历下来，发现自己就是在跟随大流，没有想好自己到底该做什么。或许我并不适合考试，从高中考大学就落榜一次，复读才勉强考上这所大学，我发现没有考试的天赋，不管是学习习惯，学习方法，我都差同龄人一大截，好在我意识到了这个问题。我需要的是自身技能的提升，而不是学历的提升来使自己获得自信。</p><p>要感谢一位学长，侯月武，在他的推荐下，我按照于慧的考研英语100篇的方法，找到了学习英语的方法，考研英语成绩是我最满意的，也是为我继续学习英语奠定了信心，让我发现我更喜欢英语，未来会继续学习英语，争取能够说一口流利的口语，期待那一天的到来，细化到每一天的学习上。</p><p>在这期间，养成了早起的习惯，到现在已坚持362天。开始记录自己的生活，开始学着分享。</p><p>数学的学习没有找到方法，或许过于自信，结果让自己大跌眼镜，理解了有的人做事事半功倍，有的则相反。专业课的备考也是很茫然地感觉，不知道该如何准备，感觉浩如烟海，无从下手。</p><p> 一些潜移默化的影响，此后会重视实践。反思之前自己有拖延症，希望从书本获得知识然后可以内化为经验了，现在想想，自己有多无知。且不说遗忘曲线，就是记下来了也未必是自己的东西，只有自己亲身经历过才能慢慢转化为自己的经验，才不会忘。所以，以实践为主是我之后人生的信条。自己也在慢慢践行，比如，假期里尝试搭建 Github Pages + Hexo 静态页博客，以前的我是这样的：看书，看其他人写的教程，止步于此，不会去亲自做。但这次的是跟随他人的经验自己一步一步跟着做，期间遇到了许多问题，一遍遍来，前前后后重装了3次才上线，准备当成自己记录生活的一小块园地。还有一点比较重要的感触是：一遍不行，就多试几遍。期间做好记录，方便以后查阅。</p><p><strong>对计算机科学与技术的认知</strong></p><p>刚上大学，农村的孩子认知低下，也不知道上大学是干啥，只是一味的跟着课表上课。并没有多少认识。加入了一个知识星球，星主是一位互联网行业很有影响力的人，他分享了他的自学方法。于是2020年学会了电脑端科学上网，在 youtube</p><p>上观看了 Crash Course 的相关课程，花了2天时间看完了，讲的生动有趣，课程涵盖了计算机的起源，发展。了解了操作系统，数据结构，计算机组成原理，计算机网络等知识是如何相互贯通的。明白是如何把一个电路完成抽象的。这40集视频，每集12min,为我系统了解计算机科学与技术打开一扇窗，是一门含好的入门课。我也因此对之前所学的知识有了一定的理解，之前学的一科一科的课程，很散乱，看过之后有了体系的概念，好比一套组合拳，数据结构，计算机网络，计算机组成原理，操作系统等知识都是相互串联成体系。</p><p><strong>专业发展规划</strong></p><p>我越来越喜欢计算机，在接下来的时间里将一本书《深入理解计算机系统》看完，想走运维的方向，一点点积累。同时学好英语。</p><p>毕业设计题目的选定</p><p>毕业题目选的是：基于树莓派的智能音箱的设计与开发 。</p><p><strong>就业预期</strong></p><p>​    对就业要求不高，只要能找到一家公司愿意接收我，我就很开心。不在意起薪高低，只要能在公司有成长有收获，慢慢融入社会，就很满意。之后通过自己的不断学习，提升自己。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Diary </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>随想</title>
+      <link href="/2020/03/11/ce-shi/"/>
+      <url>/2020/03/11/ce-shi/</url>
+      
+        <content type="html"><![CDATA[<p>自己的视野在逐渐变宽，最近在追海贼王</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Diary </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Diary </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
